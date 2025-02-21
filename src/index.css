@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.luxury-gold {
+    color: "#D4AF37";
+}
+.dark-bg {
+    background-color: "#0a0a0a";
+}
+.light-text {
+    color: "#f5f5f5";
+}
+.accent-gray {
+    color: "#1f1f1f";
+}
